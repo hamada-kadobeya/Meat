@@ -390,7 +390,7 @@ main {
   .header-list li a::after {
     content: "";
     display: block;
-    background: url(../../../assets/images/arrow-black-right.svg) no-repeat center/100%;
+    background: url(../../assets/images/arrow-black-right.svg) no-repeat center/100%;
     width: 20px;
     height: 20px;
     position: absolute;
@@ -504,7 +504,7 @@ main {
 
 .mv {
   height: 560px;
-  background: url(../../../assets/images/bg-mv.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-mv.png) no-repeat center/cover;
 }
 @media (max-width: 768px) {
   .mv {
@@ -610,7 +610,7 @@ main {
 }
 
 .reason {
-  background: url(../../../assets/images/bg-reason.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-reason.png) no-repeat center/cover;
 }
 .reason .inner {
   padding-top: 80px;
@@ -699,16 +699,16 @@ main {
   }
 }
 .reason-list li:nth-child(1) {
-  background-image: url(../../../assets/images/reason01.png);
+  background-image: url(../../assets/images/reason01.png);
 }
 .reason-list li:nth-child(2) {
-  background-image: url(../../../assets/images/reason02.png);
+  background-image: url(../../assets/images/reason02.png);
 }
 .reason-list li:nth-child(3) {
-  background-image: url(../../../assets/images/reason03.png);
+  background-image: url(../../assets/images/reason03.png);
 }
 .reason-list li:nth-child(4) {
-  background-image: url(../../../assets/images/reason04.png);
+  background-image: url(../../assets/images/reason04.png);
 }
 @media (max-width: 768px) {
   .reason-list li + li {
@@ -741,7 +741,7 @@ main {
   font-size: 14px;
 }
 .brand {
-  background: url(../../../assets/images/bg-intro.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-intro.png) no-repeat center/cover;
 }
 .brand .inner {
   padding-top: 80px;
@@ -851,7 +851,7 @@ main {
   overflow: hidden;
 }
 .rank {
-  background: url(../../../assets/images/bg-rank.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-rank.png) no-repeat center/cover;
 }
 .rank .inner {
   padding-top: 80px;
@@ -976,7 +976,7 @@ main {
   position: absolute;
   right: 0;
   top: 1px;
-  background: url(../../../assets/images/arrow-right.svg) no-repeat center/100%;
+  background: url(../../assets/images/arrow-right.svg) no-repeat center/100%;
   width: 20px;
   height: 20px;
 }
@@ -985,7 +985,7 @@ main {
   justify-content: center;
 }
 .gift {
-  background: url(../../../assets/images/bg-gift.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-gift.png) no-repeat center/cover;
 }
 .gift .inner {
   padding-top: 80px;
@@ -1085,7 +1085,7 @@ main {
   justify-content: center;
 }
 .media {
-  background: url(../../../assets/images/bg-media.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-media.png) no-repeat center/cover;
 }
 .media .inner {
   padding-top: 80px;
@@ -1190,7 +1190,7 @@ main {
 }
 
 .guide {
-  background: url(../../../assets/images/bg-guide.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-guide.png) no-repeat center/cover;
 }
 .guide .inner {
   padding-top: 80px;
@@ -1248,7 +1248,7 @@ main {
   font-size: 14px;
 }
 .faq {
-  background: url(../../../assets/images/bg-faq.png) no-repeat center top/100%;
+  background: url(../../assets/images/bg-faq.png) no-repeat center top/100%;
 }
 .faq .inner {
   padding-top: 80px;
@@ -1298,7 +1298,7 @@ main {
 .faq-list li::after {
   content: "";
   display: block;
-  background: url(../../../assets/images/arrow-bottom.svg) no-repeat center/100%;
+  background: url(../../assets/images/arrow-bottom.svg) no-repeat center/100%;
   width: 30px;
   height: 30px;
   position: absolute;
@@ -1353,7 +1353,7 @@ main {
 }
 
 .member {
-  background: url(../../../assets/images/bg-cta.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-cta.png) no-repeat center/cover;
 }
 .member .inner {
   padding-top: 50px;
@@ -1390,7 +1390,7 @@ main {
 }
 
 .sec-btn {
-  background: url(../../../assets/images/bg-btn-area.png) no-repeat center/cover;
+  background: url(../../assets/images/bg-btn-area.png) no-repeat center/cover;
 }
 .sec-btn .inner {
   padding-top: 30px;
